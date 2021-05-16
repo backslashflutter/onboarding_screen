@@ -7,10 +7,7 @@ Simple OnBoarding Screen created in Flutter
 ![App UI](image.jpg)
  
  
-
-
  
-
 Happy Learning 👍
 
 <br>
